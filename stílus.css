@@ -1,0 +1,48 @@
+a:hover{
+    background-color:gold;
+    color: red
+}
+h1{
+    background-color: yellowgreen;
+    text-align: center;
+}
+body{
+    background-color: orangered;
+    background-image: url(kepek/tej.jpg);
+}
+img{
+    padding: 45px 60px;
+    width: 35%;
+    height: 40%;
+}
+ul{
+    background-color: silver;
+}
+header{
+    font-family: cursive;
+    background-image: url(kepek/kóla.jpg);
+}
+nav{
+    border: 2px solid blue;
+}
+div{
+    padding: 3px;
+}
+#szép{
+    font-size: xx-large;
+    font-family: fantasy;
+}
+article{
+    border: 3px dotted gold;
+    background-image: url(kepek/kávé.jpg);
+    background-color: white;
+    font-size: larger;
+    color: white;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+h4{
+    text-align: center;
+    background-color: indigo;
+    font-family: fantasy;
+}
